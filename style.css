@@ -24,8 +24,6 @@ body {
 
 main {
     display: flex;
-    /*margin-bottom: 50px;*/
-    /*margin-left: 370px;*/
     justify-content: center;
     align-items: center;
     height: 60%;
